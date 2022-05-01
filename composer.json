@@ -1,5 +1,5 @@
 {
-  "name": "nikola/core",
+  "name": "nikola_php_framework/core",
   "description": "Core for Nikola's PHP Framework",
   "autoload": {
     "psr-4": {
