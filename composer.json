@@ -1,0 +1,10 @@
+{
+    "name": "nikola/core",
+    "description": "Core for Nikola's PHP Framework",
+    "autoload": {
+        "psr-4": {
+            "Nikola\\Core\\": "src/"
+        }
+    },
+    "require": {}
+}
