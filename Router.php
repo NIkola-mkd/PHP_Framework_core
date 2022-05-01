@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace nikola\phpFramework;
 
-use app\core\exception\NotFoundException;
+use nikola\phpFramework\exception\NotFoundException;
 
 /**
  * Router

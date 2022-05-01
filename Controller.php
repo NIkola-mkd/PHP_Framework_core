@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace nikola\phpFramework;
 
-use app\core\Application;
-use app\core\middlewares\BaseMiddleware;
+use nikola\phpFramework\Application;
+use nikola\phpFramework\middlewares\BaseMiddleware;
 
 class Controller
 {

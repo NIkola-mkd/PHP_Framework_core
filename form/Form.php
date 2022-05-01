@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\form;
+namespace nikola\phpFramework\form;
 
-use app\core\Model;
+use nikola\phpFramework\Model;
 
 class Form
 {

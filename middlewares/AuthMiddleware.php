@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\middlewares;
+namespace nikola\phpFramework\middlewares;
 
-use app\core\Application;
-use app\core\exception\ForbiddenException;
+use nikola\phpFramework\Application;
+use nikola\phpFramework\exception\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {

@@ -1,10 +1,10 @@
 <?php
 
-namespace app\core\db;
+namespace nikola\phpFramework\db;
 
 use PDOStatement;
-use app\core\Model;
-use app\core\Application;
+use nikola\phpFramework\Model;
+use nikola\phpFramework\Application;
 
 abstract class DbModel extends Model
 {

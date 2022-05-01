@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\db;
+namespace nikola\phpFramework\db;
 
 use PDO;
-use app\core\Application;
+use nikola\phpFramework\Application;
 
 class Database
 {

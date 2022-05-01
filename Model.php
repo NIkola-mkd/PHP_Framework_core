@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core;
+namespace nikola\phpFramework;
 
 class Model
 {
